@@ -1,0 +1,274 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Instale la versión más reciente de PowerShell para obtener nuevas características y mejoras. https://aka.ms/PSWindows
+
+PS C:\Users\casts> notepad generador_post.py
+PS C:\Users\casts> python generador_post.py
+Se crearon 2 prompts de ejemplo en /prompts
+Post generado: contenido_generado/post_2026-06-29_21-13.txt
+Tema usado: trading
+PS C:\Users\casts> type contenido_generado\post_2026-06-29_21-13.txt
+POST GENERADO
+Tema: trading
+
+Hoy es un buen dia para aprender trading. La educacion financiera cambia vidas. Empieza pequeno, piensa en grande.
+
+#Trading #Inversiones
+PS C:\Users\casts> npm create vite@latest mi-pagina --template react
+npm : El término 'npm' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ npm create vite@latest mi-pagina --template react
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (npm:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts> cd mi-pagina
+cd : No se encuentra la ruta de acceso 'C:\Users\casts\mi-pagina' porque no existe.
+En línea: 1 Carácter: 1
++ cd mi-pagina
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\casts\mi-pagina:String) [Set-Location], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand
+
+PS C:\Users\casts> npm install -D tailwindcss
+npm : El término 'npm' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ npm install -D tailwindcss
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (npm:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts> npx tailwindcss init -p
+npx : El término 'npx' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ npx tailwindcss init -p
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (npx:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts> npm run dev<!DOCTYPE html>
+npm : El término 'npm' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ npm run dev<!DOCTYPE html>
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (npm:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts> <html lang="es">
+< : El término '<' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente
+el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ <html lang="es">
++ ~
+    + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts> <head>
+< : El término '<' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente
+el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ <head>
++ ~
+    + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts>   <meta charset="UTF-8">
+< : El término '<' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente
+el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 3
++   <meta charset="UTF-8">
++   ~
+    + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts>   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+< : El término '<' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente
+el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 3
++   <meta name="viewport" content="width=device-width, initial-scale=1. ...
++   ~
+    + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts>   <title>Mi Página</title>
+< : El término '<' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente
+el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 3
++   <title>Mi Página</title>
++   ~
+    + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts>   <style>
+< : El término '<' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente
+el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 3
++   <style>
++   ~
+    + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts>     body {
+>>       font-family: system-ui, sans-serif;
+>>       margin: 0;
+>>       background: #0f172a;
+>>       color: #f8fafc;
+>>       display: flex;
+>>       align-items: center;
+>>       justify-content: center;
+>>       min-height: 100vh;
+>>       text-align: center;
+>>     }
+body : El término 'body' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 5
++     body {
++     ~~~~
+    + CategoryInfo          : ObjectNotFound: (body:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts>     .card {
+>>       background: #1e293b;
+>>       padding: 3rem;
+>>       border-radius: 20px;
+>>       box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+>>       max-width: 500px;
+>>     }
+.card : El término '.card' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 5
++     .card {
++     ~~~~~
+    + CategoryInfo          : ObjectNotFound: (.card:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts>     h1 { margin: 0 0 1rem; }
+h1 : El término 'h1' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 5
++     h1 { margin: 0 0 1rem; }
++     ~~
+    + CategoryInfo          : ObjectNotFound: (h1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts>     button {
+>>       background: #38bdf8;
+>>       color: #0f172a;
+>>       border: none;
+>>       padding: 12px 24px;
+>>       border-radius: 12px;
+>>       font-weight: 600;
+>>       cursor: pointer;
+>>     }
+button : El término 'button' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 5
++     button {
++     ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (button:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\casts>     button:hover { background: #0ea5e9; }
+>>   </style>
+>> </head>
+>> <body>
+>>   <div class="card">
+>>     <h1>Hola desde Panamá 🇵🇦</h1>
+>>     <p>Esta es tu primera página web. Edita este texto como quieras.</p>
+>>     <button onclick="alert('¡Funcionó!')">Haz clic aquí</button>
+>>   </div>
+>> </body>
+>> </html> <!DOCTYPE html>
+>> <html lang="es">
+>> <head>
+>>   <meta charset="UTF-8">
+>>   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+>>   <title>Trading desde 0 | David Perea</title>
+>>   <style>
+>>     body {
+>>       font-family: system-ui, -apple-system, sans-serif;
+>>       margin: 0;
+>>       background: #0f172a;
+>>       color: #f8fafc;
+>>       display: flex;
+>>       align-items: center;
+>>       justify-content: center;
+>>       min-height: 100vh;
+>>       text-align: center;
+>>       padding: 1rem;
+>>       background-image: radial-gradient(circle at 1px 1px, #1e293b 1px, transparent 0);
+>>       background-size: 40px 40px;
+>>     }
+>>     .card {
+>>       background: #1e293b;
+>>       padding: 3rem 2.5rem;
+>>       border-radius: 20px;
+>>       box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+>>       border: 1px solid #334155;
+>>       max-width: 500px;
+>>       width: 100%;
+>>     }
+>>     .badge {
+>>       display: inline-block;
+>>       background: #38bdf8;
+>>       color: #0f172a;
+>>       padding: 6px 12px;
+>>       border-radius: 999px;
+>>       font-size: 0.8rem;
+>>       font-weight: 700;
+>>       margin-bottom: 1rem;
+>>     }
+>>     h1 {
+>>       margin: 0 0 0.5rem;
+>>       font-size: 2.5rem;
+>>       line-height: 1.1;
+>>     }
+>>     h1 span { color: #38bdf8; }
+>>     p {
+>>       color: #cbd5e1;
+>>       line-height: 1.6;
+>>       margin: 1rem 0 2rem;
+>>       font-size: 1.1rem;
+>>     }
+>>     .btn {
+>>       background: #22c55e;
+>>       color: #0f172a;
+>>       border: none;
+>>       padding: 14px 28px;
+>>       border-radius: 12px;
+>>       font-weight: 700;
+>>       cursor: pointer;
+>>       font-size: 1rem;
+>>       text-decoration: none;
+>>       display: inline-block;
+>>       transition: all 0.2s;
+>>     }
+>>     .btn:hover {
+>>       background: #16a34a;
+>>       transform: translateY(-2px);
+>>     }
+>>     footer {
+>>       margin-top: 1.5rem;
+>>       font-size: 0.85rem;
+>>       color: #94a3b8;
+>>     }
+>>   </style>
+>> </head>
+>> <body>
+>>   <div class="card">
+>>     <div class="badge">PANAMÁ 🇵🇦</div>
+>>     <h1>Trading <span>desde 0</span></h1>
+>>     <p>Aprende a operar en los mercados sin experiencia previa.
+>>     Con David Perea, paso a paso, sin humo.</p>
+>>     <a class="btn" href="https://wa.me/50769936440" target="_blank">
+>>       Escríbeme por WhatsApp
+>>     </a>
+>>     <footer>David Perea | Mentor de Trading</footer>
+>>   </div>
+>> </body>
+>> </html>
